@@ -1,5 +1,3 @@
-# probabilidade-estatistica
-
 <h1> Trabalho de Probabilidade e Estatística UEA 2019/EST </h1>
 <h6>  a) Descrever passo a passo a metodologia utilizada na seleção da
 amostra, indicando qual método utilizado; <br> 
